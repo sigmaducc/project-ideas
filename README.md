@@ -15,3 +15,7 @@ Description: A custom library with beautiful UI for pagination along with ajax s
 
 Size: Long project\
 Description: Datatables alternative with proper ajax support and human readable documentation!
+
+### Image Compression tool
+
+
